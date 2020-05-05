@@ -18,4 +18,4 @@ Needed Functions:
 
 Quite frankly this was made to get familiar with PHP and should never be used for any reason other than as an example as how to not write secure PHP.
 
-- Luma
+~Luma

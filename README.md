@@ -1,5 +1,5 @@
 # OpenWarranty
-An introductory PHP project centered around warranty. Currently unfinished (and let's be real, probably never will be finished).
+An introductory PHP project centered around warranty. Currently unfinished and will likely not be finished.
 
 Current Functions:
 - Add Products
@@ -16,6 +16,6 @@ Needed Functions:
   - See Remaining Warranty Time
 - Extend Warranty on ID/General Warranty Updating
 
-Quite frankly this was made to get familiar with PHP and should never be used for any reason other than as an example as how to not write secure PHP.
+This was a fun experiment but I've gotten the grasp/introductory knowledge of PHP that I wanted so I don't see the need to finish the functions. However, it might be fun to look through!
 
 ~Luma
